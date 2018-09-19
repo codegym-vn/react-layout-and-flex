@@ -1,5 +1,6 @@
 # [Thực hành] Flex
-
+#
+Mã nguồn  [Thực hành] Flex được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 ## Mục tiêu:
   - Hiểu được cách sử dụng flex
   
